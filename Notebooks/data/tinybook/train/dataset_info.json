@@ -1,0 +1,37 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "Blackroot--Tiny-Open-Domain-Books",
+  "dataset_size": 2803451,
+  "description": "",
+  "download_checksums": {
+    "https://huggingface.co/datasets/Blackroot/Tiny-Open-Domain-Books/resolve/e484972cc02a2098feccae6412d262f1a1b7b912/tiny-open-domain-books.jsonl": {
+      "num_bytes": 2873742,
+      "checksum": "678b97cec92ea3dc1bf38444108c14b0a335279aab549d0e33170d46d97ff26d"
+    }
+  },
+  "download_size": 2873742,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 5677193,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2803451,
+      "num_examples": 453,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
